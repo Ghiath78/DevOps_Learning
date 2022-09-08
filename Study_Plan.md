@@ -1,1 +1,1 @@
-Tryed to creat study plan
+## Tryed to creat study plan
